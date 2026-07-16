@@ -5,7 +5,8 @@ public:
         if(n == 0) return arr;
         vector<int> temp(arr);
         sort(temp.begin(), temp.end());
-        unordered_map<int,int> mp(n);
+        unordered_map<int,int> mp;
+        mp.reserve(n);
         mp[temp[0]]=1;
         int rank = 1;
         for(int i = 1; i < n; ++i){
