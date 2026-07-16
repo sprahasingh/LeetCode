@@ -7,7 +7,7 @@ public:
         while(num){
             int d = num % 10;
             sum += d;
-            if(d >= 1 && d <= 9) s += to_string(d);
+            if(d != 0) s += to_string(d);
             num /= 10;
         }
         if(s.empty()) return 0;
