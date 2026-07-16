@@ -10,8 +10,8 @@ public:
             if(d >= 1 && d <= 9) s += to_string(d);
             num /= 10;
         }
-        if(s.empty()) s = "0";
-        else reverse(s.begin(), s.end());
+        if(s.empty()) return 0;
+        reverse(s.begin(), s.end());
         long long x = stoll(s);
         return 1LL*x*sum;
     }
