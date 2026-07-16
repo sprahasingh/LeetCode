@@ -35,5 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sprahasingh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sprahasingh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sprahasingh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sprahasingh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
