@@ -18,7 +18,6 @@ public:
         }
         return ans;
     }
-
     vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
         int n = nums.size();
         int m = queries.size();
