@@ -21,8 +21,8 @@ public:
     vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
         int n = nums.size();
         int m = queries.size();
-        unordered_map<int,int> freq;
-        int maxi = 1;
+        int maxi = *max_element(nums.begin(), nums.end());
+        vector<int> freq(maxi + 1);
         for(int num : nums){
             freq[num]++;
             maxi = max(maxi, num);
