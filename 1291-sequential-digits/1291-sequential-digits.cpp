@@ -1,4 +1,3 @@
-#include <cmath>
 class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
@@ -16,15 +15,13 @@ public:
             if(i == m) end = h;
             for(char j = start; j <= end; ++j){
                 string ans_s = "";
+                bool valid = true;
                 for(char ch = j; ch <= j + i - 1; ++ch){
-                    if(ch > '9'){
-                        ans_s = to_string(INT_MAX);
-                        break;
-                    }
+                    if(ch > '9') valid = false;
                     ans_s += ch;
                 }
                 int ans = stoi(ans_s);
-                if(ans >= low && ans <= high) result.push_back(ans);
+                if(valid && ans >= low && ans <= high) result.push_back(ans);
             }
         }
         return result;
