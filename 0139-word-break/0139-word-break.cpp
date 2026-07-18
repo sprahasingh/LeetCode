@@ -11,9 +11,7 @@ public:
                     dp[s.substr(i + 1)] = true;
                     return true;
                 }
-                else{
-                    dp[s.substr(i + 1)] = false;
-                }
+                else dp[s.substr(i + 1)] = false;
             }
         }
         return false;
