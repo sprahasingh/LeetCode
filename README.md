@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sprahasingh/LeetCode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/sprahasingh/LeetCode/tree/master/0139-word-break) |
 | [1288-remove-covered-intervals](https://github.com/sprahasingh/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sprahasingh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sprahasingh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sprahasingh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/sprahasingh/LeetCode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/sprahasingh/LeetCode/tree/master/0139-word-break) |
 | [1331-rank-transform-of-an-array](https://github.com/sprahasingh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sprahasingh/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sprahasingh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/sprahasingh/LeetCode/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,9 +79,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sprahasingh/LeetCode/tree/master/0139-word-break) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sprahasingh/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sprahasingh/LeetCode/tree/master/1291-sequential-digits) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sprahasingh/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sprahasingh/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
