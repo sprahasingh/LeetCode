@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sprahasingh/LeetCode/tree/master/0041-first-missing-positive) |
 | [1288-remove-covered-intervals](https://github.com/sprahasingh/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sprahasingh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sprahasingh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sprahasingh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/sprahasingh/LeetCode/tree/master/0041-first-missing-positive) |
 | [1331-rank-transform-of-an-array](https://github.com/sprahasingh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sprahasingh/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
