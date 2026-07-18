@@ -1,29 +1,17 @@
 class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
-        string num1 = to_string(low);
-        string num2 = to_string(high);
-        int n = num1.size();
-        int m = num2.size();
-        char l = num1[0];
-        char h = num2[0];
-        vector<int> result;
-        for(int i = n; i <= m; ++i){
-            char start = '1';
-            if(i == n) start = l;
-            char end = '9';
-            if(i == m) end = h;
-            for(char j = start; j <= end; ++j){
-                string ans_s = "";
-                bool valid = true;
-                for(char ch = j; ch <= j + i - 1; ++ch){
-                    if(ch > '9') valid = false;
-                    ans_s += ch;
-                }
-                int ans = stoi(ans_s);
-                if(valid && ans >= low && ans <= high) result.push_back(ans);
+        string digits = "123456789";
+        vector<int> ans;
+        int minLen = to_string(low).size();
+        int maxLen = to_string(high).size();
+        for (int len = minLen; len <= maxLen; len++) {
+            for (int start = 0; start + len <= 9; start++) {
+                int num = stoi(digits.substr(start, len));
+                if (num >= low && num <= high)
+                    ans.push_back(num);
             }
         }
-        return result;
+        return ans;
     }
 };
