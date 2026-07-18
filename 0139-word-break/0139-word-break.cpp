@@ -8,10 +8,10 @@ public:
             word += s[i];
             if(occ.count(word)){
                 if(solve(s.substr(i + 1), occ, dp)){
-                    dp[s.substr(i + 1)] = true;
+                    dp[s] = true;
                     return true;
                 }
-                else dp[s.substr(i + 1)] = false;
+                else dp[s] = false;
             }
         }
         return false;
