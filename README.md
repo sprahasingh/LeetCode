@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sprahasingh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0115-distinct-subsequences](https://github.com/sprahasingh/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/sprahasingh/LeetCode/tree/master/0139-word-break) |
 ## Backtracking
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/sprahasingh/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/sprahasingh/LeetCode/tree/master/0139-word-break) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sprahasingh/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Enumeration
