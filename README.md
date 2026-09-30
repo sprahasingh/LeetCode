@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/sprahasingh/LeetCode/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/sprahasingh/LeetCode/tree/master/0139-word-break) |
+| [0318-maximum-product-of-word-lengths](https://github.com/sprahasingh/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0454-4sum-ii](https://github.com/sprahasingh/LeetCode/tree/master/0454-4sum-ii) |
 | [1260-shift-2d-grid](https://github.com/sprahasingh/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sprahasingh/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sprahasingh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0115-distinct-subsequences](https://github.com/sprahasingh/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/sprahasingh/LeetCode/tree/master/0139-word-break) |
+| [0318-maximum-product-of-word-lengths](https://github.com/sprahasingh/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sprahasingh/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Backtracking
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sprahasingh/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/sprahasingh/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 <!---LeetCode Topics End-->
