@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sprahasingh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0115-distinct-subsequences](https://github.com/sprahasingh/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/sprahasingh/LeetCode/tree/master/0139-word-break) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sprahasingh/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sprahasingh/LeetCode/tree/master/1260-shift-2d-grid) |
+## Stack
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sprahasingh/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sprahasingh/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
