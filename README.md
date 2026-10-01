@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sprahasingh/LeetCode/tree/master/0061-rotate-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sprahasingh/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/sprahasingh/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sprahasingh/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
